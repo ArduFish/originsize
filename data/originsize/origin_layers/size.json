@@ -1,0 +1,13 @@
+{
+    "order": 1,
+    "origins": [
+        "originsize:creeper",
+        "originsize:short",
+        "originsize:normal",
+        "originsize:tall",
+        "originsize:enderman"
+    ],
+    "name": "Size",
+    "missing_name": "None",
+    "missing_description": "You currently don't have a size selected."
+}

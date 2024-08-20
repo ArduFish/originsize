@@ -1,0 +1,10 @@
+{
+    "powers": ["originsize:enderman"],
+    "icon": {
+	"id": "minecraft:ender_pearl"
+    },
+    "order": 0,
+    "impact": 3,
+    "name": "Enderman",
+    "description": "Enderman size (300 cm)"
+}

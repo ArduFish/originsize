@@ -1,0 +1,10 @@
+{
+    "powers": ["originsize:creeper"],
+    "icon": {
+        "id": "minecraft:creeper_head"
+    },
+    "order": 0,
+    "impact": 2,
+    "name": "Creeper",
+    "description": "Creeper size (160 cm)"
+}

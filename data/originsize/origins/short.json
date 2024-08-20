@@ -1,0 +1,10 @@
+{
+    "powers": ["originsize:small"],
+    "icon": {
+        "id": "minecraft:wind_charge"
+    },
+    "order": 0,
+    "impact": 1,
+    "name": "Breeze",
+    "description": "Breeze size (170 cm)"
+}

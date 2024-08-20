@@ -1,0 +1,11 @@
+{
+	"name": "Breeze size",
+    	"description": "You are 170 cm tall",
+	"type": "origins:attribute",
+	"modifier": {
+		"id": "*:*",
+		"attribute": "minecraft:generic.scale",
+		"amount": -0.1,
+		"operation": "add_value"
+	}
+}

@@ -1,0 +1,10 @@
+{
+    "powers": ["originsize:evoker"],
+    "icon": {
+        "id": "minecraft:totem_of_undying"
+    },
+    "order": 2,
+    "impact": 1,
+    "name": "Evoker",
+    "description": "Evoker size (190 cm)"
+}

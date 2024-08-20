@@ -1,0 +1,10 @@
+{
+    "powers": [],
+    "icon": {
+        "id": "minecraft:player_head"
+    },
+    "order": 0,
+    "impact": 0,
+    "name": "Normal",
+    "description": "The normal size (180 cm)"
+}

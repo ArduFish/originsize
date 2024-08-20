@@ -1,0 +1,11 @@
+{
+	"name": "Enderman size",
+    	"description": "You are 300 cm tall",
+	"type": "origins:attribute",
+	"modifier": {
+		"id": "*:*",
+		"attribute": "minecraft:generic.scale",
+		"amount": 1.2,
+		"operation": "add_value"
+	}
+}

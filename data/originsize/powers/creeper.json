@@ -1,0 +1,11 @@
+{
+	"name": "Creeper size",
+    	"description": "You are 160 cm tall",
+	"type": "origins:attribute",
+	"modifier": {
+		"id": "*:*",
+		"attribute": "minecraft:generic.scale",
+		"amount": -0.2,
+		"operation": "add_value"
+	}
+}
